@@ -120,6 +120,5 @@ if [ -f ~/.git-completion.bash ]; then
 fi
 
 export EDITOR='subl -w'
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home
 
 alias gw="./gradlew"
